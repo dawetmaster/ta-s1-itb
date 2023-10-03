@@ -5,7 +5,9 @@ oleh: Petra Novandi <me@petrabarus.net>
 dimodifikasi:
 
 - Faris Rizki Ekananda <work@farisekananda.dev>
-- Andika Naufal Hilmy
+- Andika Naufal Hilmy (maintainer)
+- Fawwaz Anugrah Wiradhika D (maintainer, pembuat template TA)
+- Bayu Samudra (maintainer, pembuate dockerizer)
 
 Dokumen ini merupakan templat LaTeX yang ditujukan untuk laporan
 tesis di program studi Teknik Informatika ITB. Templat ini penulis
