@@ -34,7 +34,7 @@ Untuk saat ini, akan dicoba perintah tambahan untuk distro lainnya sebagai berik
 
 ```
 sudo pacman -S --noconfirm \
-    texlive texlive-lang texlive-plaingeneric texlive-binextra
+    texlive texlive-lang texlive-plaingeneric texlive-binextra biber
 ```
 
 ## Penggunaan
