@@ -33,7 +33,8 @@ Untuk saat ini, akan dicoba perintah tambahan untuk distro lainnya sebagai berik
 - Arch Linux:
 
 ```
-sudo pacman -S texlive-basic texlive-latex texlive-latexrecommended texlive-latexextra texlive-fontsrecommended texlive-fontsextra texlive-mathscience
+sudo pacman -S --noconfirm \
+    texlive texlive-lang texlive-plaingeneric texlive-binextra
 ```
 
 ## Penggunaan
